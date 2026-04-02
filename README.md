@@ -59,7 +59,7 @@ A full-featured **Job Portal Web Application** built using the **MERN Stack (Mon
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/devmahato82/Job-Portal.git
 cd job-portal
 ```
 
